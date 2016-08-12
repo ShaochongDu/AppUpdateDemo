@@ -1,0 +1,79 @@
+{
+    "resultCount": 1,
+    "results": [
+        {
+            "screenshotUrls": [
+                "http://a3.mzstatic.com/us/r30/Purple60/v4/91/d7/bb/91d7bb45-ee82-0a73-4e94-66c98cc08f75/screen1136x1136.jpeg",
+                "http://a1.mzstatic.com/us/r30/Purple20/v4/e2/8d/b3/e28db388-31de-55c2-76de-0ad27c323e99/screen1136x1136.jpeg",
+                "http://a1.mzstatic.com/us/r30/Purple20/v4/39/a9/59/39a95964-403c-6d6f-4810-7b1e6875a563/screen1136x1136.jpeg",
+                "http://a4.mzstatic.com/us/r30/Purple20/v4/b5/2e/2c/b52e2cce-a342-1e0e-a062-410c05d4cc7a/screen1136x1136.jpeg"
+            ],
+            "ipadScreenshotUrls": [],
+            "appletvScreenshotUrls": [],
+            "artworkUrl60": "http://is2.mzstatic.com/image/thumb/Purple20/v4/c2/ec/b2/c2ecb2b3-77b3-e759-c479-a926062f3eab/source/60x60bb.jpg",
+            "artworkUrl512": "http://is2.mzstatic.com/image/thumb/Purple20/v4/c2/ec/b2/c2ecb2b3-77b3-e759-c479-a926062f3eab/source/512x512bb.jpg",
+            "artworkUrl100": "http://is2.mzstatic.com/image/thumb/Purple20/v4/c2/ec/b2/c2ecb2b3-77b3-e759-c479-a926062f3eab/source/100x100bb.jpg",
+            "artistViewUrl": "https://itunes.apple.com/us/developer/caxa/id615963261?uo=4",
+            "kind": "software",
+            "features": [],
+            "supportedDevices": [
+                "iPhone4",
+                "iPad2Wifi",
+                "iPad23G",
+                "iPhone4S",
+                "iPadThirdGen",
+                "iPadThirdGen4G",
+                "iPhone5",
+                "iPodTouchFifthGen",
+                "iPadFourthGen",
+                "iPadFourthGen4G",
+                "iPadMini",
+                "iPadMini4G",
+                "iPhone5c",
+                "iPhone5s",
+                "iPhone6",
+                "iPhone6Plus",
+                "iPodTouchSixthGen"
+            ],
+            "advisories": [
+                "Unrestricted Web Access"
+            ],
+            "isGameCenterEnabled": false,
+            "contentAdvisoryRating": "17+",
+            "fileSizeBytes": "25274499",
+            "sellerUrl": "http://www.goodevent.cn",
+            "trackCensoredName": "优活动",
+            "languageCodesISO2A": [
+                "EN",
+                "ZH"
+            ],
+            "trackViewUrl": "https://itunes.apple.com/us/app/you-huo-dong/id1110238123?mt=8&uo=4",
+            "trackContentRating": "17+",
+            "currency": "USD",
+            "wrapperType": "software",
+            "version": "2.0.0",
+            "description": "优活动是专业活动+空间+协作平台。免费提供线上发布、推广一体化，线下参与交流互动。以用户为中心，建立强大的社交系统，拉近人与人之间的距离。",
+            "artistId": 615963261,
+            "artistName": "CAXA",
+            "genres": [
+                "Social Networking"
+            ],
+            "price": 0,
+            "trackName": "优活动",
+            "trackId": 1110238123,
+            "bundleId": "com.caxaAS.CPSActivity",
+            "releaseDate": "2016-06-02T18:11:22Z",
+            "primaryGenreName": "Social Networking",
+            "isVppDeviceBasedLicensingEnabled": true,
+            "primaryGenreId": 6005,
+            "currentVersionReleaseDate": "2016-07-12T22:16:41Z",
+            "releaseNotes": "~~亲爱的小伙伴们，优活动2.0版本发布啦，更多优质活动等待您的参与！\n本版本对上个版进行大幅度优化，增加部分页面缓存及更好的用户体验。\n· 发布活动页面更加美观\n· 地图定位及搜索更加准确\n· 活动收藏、草稿及我的关注增加删除功能\n· 支付宝及微信支付更加灵活\n· 其他若干bug修复",
+            "sellerName": "CAXA Technology CO., LTD",
+            "minimumOsVersion": "7.0",
+            "formattedPrice": "Free",
+            "genreIds": [
+                "6005"
+            ]
+        }
+    ]
+}
